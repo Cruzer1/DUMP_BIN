@@ -17,5 +17,5 @@ printf("\n\t total number of pipes created=%d\n",icount);
 printf("\n________________________");
 printf("\n N.B");
 printf("\n\t R.P.D-> read pipe descriptor");
-printf("\n\t\ w.p.d -> write pipe desriptor\n");
+printf("\n\t w.p.d -> write pipe desriptor\n");
 }
